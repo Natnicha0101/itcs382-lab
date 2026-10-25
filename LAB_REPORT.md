@@ -6,11 +6,11 @@ Repository URL:
 
 | Item | Version or name |
 | --- | --- |
-| JDK | |
-| Maven | |
-| IDE | |
-| SonarQube for IDE | |
-| AI tool and exact model | |
+| JDK | 17.0.12 |
+| Maven | 3.10.0 |
+| IDE | Visual Studio Code 1.142.0 |
+| SonarQube for IDE | 6.2.0 |
+| AI tool and exact model | ChatGPT, GPT-6 Sol |
 
 ## Task 1. SonarQube on the starter code
 
